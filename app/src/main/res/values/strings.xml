@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Information</string>
+    <string name="full_name">Щербакова Кристина Сергеена</string>
+    <string name="title">Группа ПИ-251</string>
+    <string name="age_format">Age: 19</string>
+    <string name="phone">+79-(50)-581-92-46</string>
+    <string name="social">/no_name55schook</string>
+    <string name="email">kristinasnake30@gmail.com</string>
+</resources>
